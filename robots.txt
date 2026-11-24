@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://matsuge.onelovie.com/sitemap.xml
